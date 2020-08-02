@@ -51,12 +51,14 @@ nav .nav_right_section img {
 main {
   height: 150px;
   text-align: center;
+  margin-top: 47px;
 }
 
 main .main_logo {
   width: 530px;
   margin: 0 auto;
   margin-bottom: 35px;
+  padding-top: 109px;
 }
 
 main .main_logo img {
